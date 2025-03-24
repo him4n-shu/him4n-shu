@@ -15,7 +15,7 @@
 
 - 👨‍💻 Check out my projects at [https://himanshuportfolio-gold.vercel.app/](https://himanshuportfolio-gold.vercel.app/)
 
-- 💬 Ask me about **MERN stack, AI-ML, or web development**
+- 💬 Ask me about **MERN stack and AI-ML**
 
 - 📫 Reach me at **himanshu7554@gmail.com**
 
