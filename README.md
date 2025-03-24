@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=him4n-shu" alt="him4n-shu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/him4n_shu" target="blank"><img src="https://img.shields.io/twitter/follow/him4n_shu?logo=twitter&style=for-the-badge" alt="him4n_shu" /></a> </p>
+<p align="left"> <a href="https://x.com/Him4_nshu" target="blank"><img src="https://img.shields.io/twitter/follow/Him4_nshu?logo=twitter&style=for-the-badge" alt="Him4_nshu" /></a> </p>
 
 - 🌱 I’m diving deep into **MERN stack (Node.js, Express, React, MongoDB)**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/him4n_shu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="him4n_shu" height="30" width="40" /></a>
+<a href="https://x.com/Him4_nshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Him4_nshu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshu-kumar-b4b799208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-kumar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/him4n_shu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="him4n_shu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100010182331281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himanshu-kumar" height="30" width="40" /></a>
