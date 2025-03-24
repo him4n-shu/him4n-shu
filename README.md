@@ -44,5 +44,3 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=him4n-shu&show_icons=true&locale=en&layout=compact" alt="him4n-shu" />
 <br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=him4n-shu&" alt="him4n-shu" /></p>
