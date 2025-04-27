@@ -13,7 +13,7 @@
 
 - 🎓 I hold a **B.Tech in Computer Science with a specialization in AI & ML**
 
-- 👨‍💻 Check out my projects at [https://himanshuportfolio-gold.vercel.app/](https://himanshuportfolio-gold.vercel.app/)
+- 👨‍💻 Check out my projects at [https://itshim4nshu.vercel.app/](https://itshim4nshu.vercel.app/)
 
 - 💬 Ask me about **MERN stack and AI-ML**
 
