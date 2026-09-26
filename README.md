@@ -1,46 +1,195 @@
-<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
-<h3 align="center">A passionate MERN stack developer and AIML Engineer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=him4n-shu&label=Profile%20views&color=0e75b6&style=flat" alt="him4n-shu" /> </p>
+# Hey, I'm Himanshu Kumar 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=him4n-shu" alt="him4n-shu" /></a> </p>
-
-<p align="left"> <a href="https://x.com/Him4_nshu" target="blank"><img src="https://img.shields.io/twitter/follow/Him4_nshu?logo=twitter&style=for-the-badge" alt="Him4_nshu" /></a> </p>
-
-- 🌱 I’m diving deep into **MERN stack (Node.js, Express, React, MongoDB)**
-
-- 🤖 I’m also exploring **AI-ML with Python**
-
-- 🎓 I hold a **B.Tech in Computer Science with a specialization in AI & ML**
-
-- 👨‍💻 Check out my projects at [https://itshim4nshu.vercel.app/](https://itshim4nshu.vercel.app/)
-
-- 💬 Ask me about **MERN stack and AI-ML**
-
-- 📫 Reach me at **himanshu7554@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/Him4_nshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Him4_nshu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himanshu-kumar-b4b799208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-kumar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/him4n_shu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="him4n_shu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010182331281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himanshu-kumar" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Developer;Java+%7C+MERN+%7C+AI%2FML;Building+real-world+software+with+code+%26+AI;Turning+ideas+into+working+products+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=him4n-shu&show_icons=true&locale=en&layout=compact" alt="him4n-shu" />
-<br><br>
+  <a href="https://itshim4nshu.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/himanshu-kumar-b4b799208/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/him4n_shu/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science graduate specializing in Artificial Intelligence & Machine Learning**, interested in building scalable applications and AI-powered products.
+
+I enjoy working across the stack — from designing interfaces and building APIs to integrating databases, real-time systems and machine-learning models.
+
+```text
+💻 Full Stack Development    → Java, JavaScript, React, Next.js, Node.js
+🗄️ Databases                 → MongoDB, SQL
+🤖 AI / ML                   → Python, PyTorch, Computer Vision, Generative AI
+🧩 Problem Solving           → DSA & SQL
+🚀 Deployment                → Vercel, Render
+```
+
+---
+
+## 🚀 Things I've Built
+
+### 🔍 Veritas AI
+
+**AI-powered deepfake video detection system**
+
+A deep-learning based system designed to detect manipulated and synthetic videos using an ensemble approach with **EfficientNet-B7** and computer vision techniques.
+
+**Stack:** `Python` `PyTorch` `EfficientNet-B7` `Computer Vision` `Deep Learning`
+
+---
+
+### 🇮🇳 BharatGPT
+
+**An AI assistant designed around everyday problems faced by Indian users**
+
+A full-stack AI assistant concept focused on simplifying government services, forms, agriculture assistance, emergency information and multilingual interaction.
+
+**Highlights**
+
+* 🏛️ Sarkari Babu — Government service guidance
+* 📝 Auto Form Filler
+* 🌾 Gaon Connect — Agriculture assistance
+* 🚨 Emergency information
+* 🌐 Multilingual AI assistance
+
+**Stack:** `Next.js` `MongoDB` `Express.js` `AI APIs`
+
+---
+
+### 🎨 Comic Crafter AI
+
+**AI-powered comic generation platform**
+
+An end-to-end application that combines **AI story generation with image generation** to create comic-style stories.
+
+**Stack:** `Python` `Streamlit` `OpenAI` `Stable Diffusion` `Hugging Face`
+
+---
+
+### 🎬 StreamNest
+
+**Modern movie discovery and streaming-style application**
+
+A responsive web application for discovering, searching and browsing movies using the TMDB API.
+
+**Stack:** `Next.js` `React` `Tailwind CSS` `TMDB API`
+
+---
+
+### 💬 Real-Time Chat Application
+
+**MERN-based real-time messaging platform**
+
+A WhatsApp-style chat application featuring real-time communication using Socket.io.
+
+**Stack:** `React` `Node.js` `Express.js` `MongoDB` `Socket.io`
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,c" />
+
+<br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+
+<br/>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+<br/>
+
+### AI / ML & Tools
+
+<img src="https://skillicons.dev/icons?i=pytorch,git,github,postman,vscode,vercel" />
+
+</div>
+
+---
+
+## 🧠 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/him4n_shu/">
+
+<img src="https://leetcode-stats-six.vercel.app/him4n_shu?theme=dark" alt="LeetCode Stats" />
+
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/him4n_shu/">
+  <img src="https://img.shields.io/badge/View%20Full%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=him4n-shu&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=him4n-shu&layout=compact&hide_border=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=him4n-shu&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://itshim4nshu.vercel.app">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-36BCF7?style=for-the-badge" />
+</a>
+
+<a href="https://linkedin.com/in/himanshu-kumar-b4b799208/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/him4n_shu/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="mailto:himanshu7554@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `Build → Break → Learn → Repeat 🚀`
+
+</div>
